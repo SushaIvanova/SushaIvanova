@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+  <h1>Привет, меня зовут Саша!</h1>
+  <h3>Начинающий веб-разработчик</h3>
+</div>
 
 <!--
 **SushaIvanova/SushaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
