@@ -18,8 +18,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
 
+<h2>Моя статистика:</h2>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushaIvanova&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushaIvanova&theme=default" />
+</div>
+
 <!--
-**SushaIvanova/SushaIvanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
