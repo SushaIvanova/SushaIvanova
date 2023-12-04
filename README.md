@@ -2,8 +2,11 @@
   <h1>Привет, меня зовут Саша!</h1>
   <h3>Начинающий веб-разработчик</h3>
 </div>
+- Стремлюсь писать чистый читабельный код
+- Мечтаю работать с опытными разработчивами и учиться у них
+- Стараюсь пополнять стек новыми технологиями
 
-### Для связи:
+## Для связи:
 <div id="socials">
   <a href="https://t.me/alexskhnv">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
