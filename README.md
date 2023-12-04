@@ -3,7 +3,7 @@
   <h3>Начинающий веб-разработчик</h3>
 </div>
 
-:envelope:<h2>Для связи:</h2>
+### :envelope:Для связи:
 <div id="socials">
   <a href="https://t.me/alexskhnv">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white">
